@@ -15,7 +15,7 @@ A chatbot powered by **Retrieval-Augmented Generation (RAG)** and **LangChain**,
 ---
 
 ### Chat Interface
-![Chat Interface](./screenshots/chat_interface.png)
+![Chat Interface](./screenshots/chatbot-interface.png)
 
 ---
 
